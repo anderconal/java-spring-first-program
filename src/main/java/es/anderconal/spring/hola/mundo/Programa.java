@@ -2,7 +2,6 @@ package es.anderconal.spring.hola.mundo;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.context.support.FileSystemXmlApplicationContext;
 
 public class Programa {
 	public static void main(String[] args) {
